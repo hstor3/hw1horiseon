@@ -10,3 +10,8 @@ In the HTML file, I started off by spacing things out so it would be easier for 
 CSS file overview
 
 In the CSS file, I created a button selector and added information to make it look like the original version. Then I consolidated the class of benefits, benefits h3, benefits img, content div, content img, and content h2 because they all contained the same information multiple times. I left the original code but commented out what was consolidated for the user to do what they want with. 
+
+
+
+
+![Getting Started](./assets/images/hw1horiseon.png)
